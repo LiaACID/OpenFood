@@ -1,0 +1,25 @@
+Open Food
+
+A Automated Food Production System For Limited Spaces.
+
+	Plants
+		List of Plants:
+
+	Plant Pots	5
+		3d Printed Pots
+		3d Printed Sprayers
+		Tubes 2
+		Pump 3
+
+	Plant Monitoring	9.4
+		Esp32(Maybe, needs a SD Card Slot) 3
+		Temp Sensor 1.25
+		Co2 Sensor 1.25
+		Humidity Sensor 1.25
+		Heat Sensor 1.25
+		Relay 0.70 0.70
+
+	Light	4
+		4
+				=18.4
+		
